@@ -1,0 +1,19 @@
+{
+  "name": "jenkinsdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x363090973/jenkins_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x363090973/jenkins_test/issues"
+  },
+  "homepage": "https://github.com/x363090973/jenkins_test#readme"
+}
