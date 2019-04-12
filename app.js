@@ -1,4 +1,4 @@
 
 
 const a = require('fs')
-console.log('a => ',a)
+a.writeFileSync('./test.txt','测试')
